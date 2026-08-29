@@ -115,20 +115,6 @@
         <a href="https://financial-research-ai-agent-1.onrender.com/"><img src="https://img.shields.io/badge/Demo-FF5722?style=for-the-badge&logo=youtube&logoColor=white" /></a>
       </p>
     </td>
-    <td width="50%">
-      <h3>📊 AdaptQuiz - Adaptive Quiz System</h3>
-      <p><strong>Bayesian Knowledge Tracing • Gradient Boosting</strong></p>
-      <ul>
-        <li>Analyzed 2.6M ASSISTments interactions</li>
-        <li>75.66% accuracy in skill prediction</li>
-        <li>79% weaker-skill targeting effectiveness</li>
-        <li>AI-driven personalized learning assessment</li>
-        <li><em>Submitted, under review</em></li>
-      </ul>
-      <p>
-        <a href="https://github.com/ANlife764/AdaptQuiz"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-      </p>
-    </td>
   </tr>
 </table>
 
@@ -197,8 +183,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
 ### 📈 GitHub Activity
 
 <div align="center">
@@ -222,9 +206,6 @@
 
 <br/>
 
-<div align="center">
-  <i>✨ Stats update automatically every time I code!</i>
-</div>
 
 ---
 
