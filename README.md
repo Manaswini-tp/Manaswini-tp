@@ -199,19 +199,31 @@
 
 ### 📊 GitHub Stats
 
+### 📈 GitHub Activity
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manaswini-tp&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manaswini-tp&theme=github-dark&hide_border=true" width="48%" />
+  <!-- Most reliable stats combo -->
+  
+  <!-- Badge Stats (Always show) -->
+  <p>
+    <img src="https://img.shields.io/github/followers/Manaswini-tp?label=👥%20Followers&style=for-the-badge&logo=github&color=0e75b6" />
+    <img src="https://img.shields.io/github/stars/Manaswini-tp?label=⭐%20Stars&style=for-the-badge&logo=github&color=yellow" />
+    <img src="https://img.shields.io/github/commit-activity/m/Manaswini-tp/Manaswini-tp?label=📝%20Commits&style=for-the-badge&color=green" />
+  </p>
+  
+  <!-- Streak (Demolab - Most reliable) -->
+  <img src="https://streak-stats.demolab.com/?user=Manaswini-tp&theme=radical&hide_border=true&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" width="90%" />
+  
+  <br/><br/>
+  
+  <!-- Activity Graph (Always works) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manaswini-tp&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ff69b4" width="95%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manaswini-tp&layout=compact&theme=github_dark&hide_border=true" width="48%" />
-</div>
-
----
+<br/>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <i>✨ Stats update automatically every time I code!</i>
 </div>
 
 ---
