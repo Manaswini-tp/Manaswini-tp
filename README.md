@@ -85,11 +85,11 @@ A real-time AI-powered financial research assistant.
 
 <br/>
 
-<a href="#">
+<a href="https://github.com/ANlife764/Financial_Research_AI_Agent">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="#">
+<a href="https://financial-research-ai-agent-1.onrender.com/">
 <img src="https://img.shields.io/badge/LIVE%20DEMO-06B6D4?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </a>
 
@@ -112,11 +112,11 @@ A multilingual AI system for groundwater data exploration.
 
 <br/>
 
-<a href="#">
+<a href="https://github.com/Manaswini-tp/ingres-chatbot">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="#">
+<a href="https://ingres-chatbot-3xru.vercel.app/">
 <img src="https://img.shields.io/badge/LIVE%20DEMO-06B6D4?style=for-the-badge&logo=react&logoColor=white"/>
 </a>
 
@@ -141,11 +141,11 @@ A secure blockchain-based voting system with distributed consensus.
 
 <br/>
 
-<a href="#">
+<a href="https://github.com/ANlife764/Blockchain-Voting-System">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="#">
+<a href="https://blockchain-voting-system-3.onrender.com/">
 <img src="https://img.shields.io/badge/LIVE%20DEMO-06B6D4?style=for-the-badge&logo=flask&logoColor=white"/>
 </a>
 
@@ -168,7 +168,7 @@ A hybrid AI system for student emotion detection and mental health risk assessme
 
 <br/>
 
-<a href="#">
+<a href="https://github.com/HARSHITA-SRIVASTAVA/Major-Project-">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
